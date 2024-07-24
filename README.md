@@ -1,5 +1,7 @@
 # YouTube_Summarizer
 
+###For referring the Ollama refer this [blog](https://www.casedone.ai/blog/ollama-beginner-guide-to-local-llm-and-api-hosting)
+
 Step 1 : Download the [Ollama](https://ollama.com/download/windows)
 <br>
 Step 2 : To see the LLM supported by the Ollama 
