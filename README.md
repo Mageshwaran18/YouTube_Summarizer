@@ -7,3 +7,5 @@ Step 2 : To see the LLM supported by the Ollama
 <br>
 Step 3 : To install and run the LLama3 
 ```ollama run llama3```
+<br>
+Step 4 : ```ollama serve``` can be used to run the server
